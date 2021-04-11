@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @thompsle154
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning about Github
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me ...
 
