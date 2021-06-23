@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thompsle154
-- 👀 I’m interested in data analytics
-- 💞️ I’m looking to collaborate on Python
+- 👀 I’m interested in data
+- 💞️ I’m looking to 
 - 📫 How to reach me ...
 
 <!---
